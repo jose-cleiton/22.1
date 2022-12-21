@@ -11,7 +11,7 @@ class Main {
     console.log(sub(2, 3));
     console.log(mult(2, 3));
     console.log(div(2, 3));
-  }
+  };
 }
 
 const operations = new Operations();

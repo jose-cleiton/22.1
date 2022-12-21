@@ -5,7 +5,9 @@
   "main": "src/main.js",
   "scripts": {
     "start": "node src",
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint src",
+    "format": "prettier --write src"
   },
   "dependencies": {
     "jest": "^26.1.0"
