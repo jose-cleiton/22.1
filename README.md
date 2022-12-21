@@ -7,7 +7,7 @@ Para instalar o projeto, siga os seguintes passos:
 
 Clone o repositório para o seu computador:
 Copy code
-git clone https://github.com/seu-usuario/meu-projeto.git
+git clone https://github.com/jose-cleiton/22.1
 Entre no diretório do projeto:
 Copy code
 cd meu-projeto
