@@ -1,13 +1,16 @@
 {
-  "name": "22.1",
+  "name": "meu-projeto",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Este é um projeto simples que demonstra algumas operações básicas, como soma, subtração, multiplicação e divisão.",
+  "main": "src/main.js",
   "scripts": {
     "start": "node src",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
